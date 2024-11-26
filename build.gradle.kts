@@ -16,6 +16,6 @@ repositories {
 
 dependencies {
   implementation("org.springframework.boot:spring-boot-starter-web")
-  implementation ("io.sentry:sentry-spring-boot-starter-jakarta:6.34.0")
-  implementation ("io.sentry:sentry-opentelemetry-core:6.34.0")
+  implementation ("io.sentry:sentry-spring-boot-starter-jakarta:8.0.0-beta.3")
+  implementation ("io.sentry:sentry-opentelemetry-core:8.0.0-beta.3")
 }
